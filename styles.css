@@ -54,7 +54,7 @@ footer {
 .content-container {
     display: flex;                  /* Use flexbox for alignment */
     justify-content: space-between; /* Space between items */
-    align-items: center;            /* Align items vertically */
+    align-items: flex-start;            /* Align items at the top */
 }
 
 .right-image {
