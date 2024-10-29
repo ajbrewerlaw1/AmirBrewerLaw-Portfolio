@@ -1,3 +1,5 @@
+/* Existing styles... */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -44,4 +46,18 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+/* More existing styles... */
+
+/* New styles for layout */
+.content-container {
+    display: flex;                  /* Use flexbox for alignment */
+    justify-content: space-between; /* Space between items */
+    align-items: center;            /* Align items vertically */
+}
+
+.right-image {
+    max-width: 200px;  /* Adjust the width as needed */
+    height: auto;      /* Maintain aspect ratio */
 }
