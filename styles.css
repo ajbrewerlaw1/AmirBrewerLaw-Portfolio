@@ -61,3 +61,16 @@ footer {
     max-width: 200px;  /* Adjust the width as needed */
     height: auto;      /* Maintain aspect ratio */
 }
+
+/* resume styles */
+
+.resume-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+iframe {
+    border: none;
+}
+
