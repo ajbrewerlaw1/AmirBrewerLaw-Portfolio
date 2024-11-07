@@ -60,7 +60,7 @@ footer {
 .left-image {
     max-width: 200px;  /* Adjust the width as needed */
     height: auto;      /* Maintain aspect ratio */
-    margin-right: 15px;  /* Right margin */
+    margin-right: 30px;  /* Right margin */
 }
 
 /* resume styles */
