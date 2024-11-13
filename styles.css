@@ -63,8 +63,8 @@ footer {
 /* Style for your name */
 .centered-content h1 {
     font-family: Garamond, serif;
-    font-size: 50px; /* Adjust this size as desired */
-    margin-bottom: 10px; /* Adds space between your name and the image */
+    font-size: 70px; /* Adjust this size as desired */
+    margin-bottom:20px; /* Adds space between your name and the image */
 }
 
 .centered-content img {
@@ -75,7 +75,7 @@ footer {
 
 .centered-content h2 {
     font-family: Garamond, serif;
-    max-width: 1000px; /* Optional: set a max width for readability */
+    max-width: 1500px; /* Optional: set a max width for readability */
     margin: 0 auto;
 }
 
