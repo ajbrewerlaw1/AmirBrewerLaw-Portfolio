@@ -61,14 +61,14 @@ footer {
 }
 
 .centered-content img {
-    max-width: 200px; /* Adjust the size as needed */
+    max-width: 250px; /* Adjust the size as needed */
     height: auto;
     margin-bottom: 20px;
 }
 
 .centered-content h2 {
     font-family: 'Times New Roman', Times, serif;
-    max-width: 600px; /* Optional: set a max width for readability */
+    max-width: 800px; /* Optional: set a max width for readability */
     margin: 0 auto;
 }
 
