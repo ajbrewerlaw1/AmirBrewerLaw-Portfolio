@@ -79,6 +79,10 @@ footer {
     margin: 0 auto;
 }
 
+.centered-content h1:last-of-type {
+    margin-top: 40px; /* Adds more space above the "Projects" heading */
+}
+
 /* resume styles */
 
 .resume-container {
