@@ -62,7 +62,7 @@ footer {
 
 .centered-content img {
     max-width: 100px; /* Adjust the size as needed */
-    height: 100px;
+    height: auto;
     margin-bottom: 20px;
 }
 
