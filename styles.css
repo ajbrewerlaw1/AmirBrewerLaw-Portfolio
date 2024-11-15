@@ -84,14 +84,14 @@ footer {
 }
 
 /* Project container styling */
-.project1 {
+.project {
     position: relative;
     width: 600px; /* Adjust size as desired */
     height: 500px; /* Adjust size as desired */
     overflow: hidden;
 }
 
-.project1 img {
+.project img {
     width: 200%;
     height: 100%;
     object-fit: cover;
@@ -99,7 +99,7 @@ footer {
 }
 
 /* Overlay styling */
-.project1 .overlay {
+.project .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -116,13 +116,13 @@ footer {
 }
 
 /* Project title styling */
-.project1 .project-title {
+.project .project-title {
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px; /* Adjust font size as desired */
     text-align: center;
 }
 
-.project1:hover .overlay {
+.project:hover .overlay {
     opacity: 1; /* Shows overlay on hover */
 }
 
