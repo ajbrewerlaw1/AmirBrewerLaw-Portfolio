@@ -126,6 +126,33 @@ footer {
     opacity: 1; /* Shows overlay on hover */
 }
 
+section {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+section img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Photo grid styles */
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 20px; /* Space between images */
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.photo-grid img {
+    width: 100%; /* Ensures images scale to fit the grid cells */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 10px; /* Optional: Adds rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow for better visibility */
+}
+
 /* resume styles */
 
 .resume-container {
