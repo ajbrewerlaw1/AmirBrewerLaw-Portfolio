@@ -153,6 +153,32 @@ section img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow for better visibility */
 }
 
+.project-description {
+  display: flex;
+  justify-content: space-between; /* Space sections evenly across the page */
+  gap: 20px; /* Add spacing between the sections */
+  margin-top: 30px; /* Add space between the grid of images and this description */
+}
+
+.section {
+  flex: 1; /* Make all sections equal in width */
+  padding: 10px;
+  border: 1px solid #ccc; /* Optional: add a border around each section */
+  border-radius: 5px; /* Optional: round corners for better appearance */
+  background-color: #f9f9f9; /* Optional: light background for contrast */
+}
+
+h3 {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
 /* resume styles */
 
 .resume-container {
