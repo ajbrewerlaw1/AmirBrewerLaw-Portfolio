@@ -68,14 +68,14 @@ footer {
 }
 
 .centered-content img {
-    max-width: 250px; /* Adjust the size as needed */
+    max-width: 350px; /* Adjust the size as needed */
     height: auto;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .centered-content h2 {
     font-family: Garamond, serif;
-    max-width: 1200px; /* Optional: set a max width for readability */
+    max-width: 1000px; /* Optional: set a max width for readability */
     margin: 0 auto;
 }
 
@@ -93,7 +93,7 @@ footer {
 
 .project img {
     width: 150%;
-    height: 75%;
+    height: 150%;
     object-fit: none;
     transition: transform 0.3s ease; /* Smooth transition for hover effect */
 }
