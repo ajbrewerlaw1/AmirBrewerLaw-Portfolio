@@ -92,7 +92,7 @@ footer {
 }
 
 .project img {
-    width: 200%;
+    width: 150%;
     height: 150%;
     object-fit: fill;
     transition: transform 0.3s ease; /* Smooth transition for hover effect */
